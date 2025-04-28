@@ -1,0 +1,10 @@
+D:\EsemkaVote2\EsemkaVote2\obj\Debug\EsemkaVote2.csproj.AssemblyReference.cache
+D:\EsemkaVote2\EsemkaVote2\obj\Debug\EsemkaVote2.Properties.Resources.resources
+D:\EsemkaVote2\EsemkaVote2\obj\Debug\EsemkaVote2.View.EsemkaVote.resources
+D:\EsemkaVote2\EsemkaVote2\obj\Debug\EsemkaVote2.csproj.GenerateResource.cache
+D:\EsemkaVote2\EsemkaVote2\obj\Debug\EsemkaVote2.csproj.CoreCompileInputs.cache
+D:\EsemkaVote2\EsemkaVote2\bin\Debug\EsemkaVote2.exe.config
+D:\EsemkaVote2\EsemkaVote2\bin\Debug\EsemkaVote2.exe
+D:\EsemkaVote2\EsemkaVote2\bin\Debug\EsemkaVote2.pdb
+D:\EsemkaVote2\EsemkaVote2\obj\Debug\EsemkaVote2.exe
+D:\EsemkaVote2\EsemkaVote2\obj\Debug\EsemkaVote2.pdb
